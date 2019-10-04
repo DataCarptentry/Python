@@ -1,0 +1,7 @@
+## Useful functions for basic data analysis
+
+data.info()     - more info on data frame (e.g. size)
+data.describe() - summary statistics of data
+data.columns    - list of data colums
+data.head, data.tail    - top/bottom few rows
+data.T  - transpose data 
